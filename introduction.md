@@ -6,3 +6,6 @@ Introducing myself to the Dojo, where my favourite Code School path is Ruby
 * I will never bring live blades on the tatami
 * I will respect my opponents
 * If the Sensei would be respected, depends solely on him!
+* Git
+* More Git
+* Even more Git
